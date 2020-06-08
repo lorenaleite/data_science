@@ -25,7 +25,7 @@ Profissional de Supply Chain, atuando em empresas nacionais e multinacionais, no
 
 ## Projetos:
 
-* **Analisado aluguéis na cidade de Nova Iorque com Airbnb:**
+* **Analisado aluguéis na cidade de Nova Iorque com Airbnb:**Analisando_os_Dados_do_Airbnb_NYC.ipynb
 
 
 ---
