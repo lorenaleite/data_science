@@ -1,4 +1,4 @@
-# Data_science
+# Data Science
 Portfólio de Projetos de Data Science
 [![author](https://img.shields.io/badge/author-carlosfab-red.svg)](https://www.linkedin.com/in/carlosfab) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/carlosfab/data_science/issues)
 
@@ -26,4 +26,4 @@ Profissional de Supply Chain, atuando em empresas nacionais e multinacionais, no
 ## Projetos:
 
 * **Analisado aluguéis na cidade de New York com Airbnb:** https://bit.ly/3feDjDz
-* **Gerando uma *Wordcloud*:** hs://bit.ly/2CpEu4v
+* **Gerando uma *Wordcloud*:** https://bit.ly/2CpEu4v
