@@ -7,7 +7,7 @@ Portfólio de Projetos de Data Science
 </p>
 
 # Lorena Leite
-<sub>*Supply Chain and Data Analyst*</sub>
+<sub>*Supply Chain and Data Science*</sub>
 
 Realização de projetos de Data Science auxiliando na tomada de decisões estratégicas.
 
@@ -15,7 +15,7 @@ Profissional de Supply Chain, atuando em empresas nacionais e multinacionais, no
 
 *Graduação em Engenharia de Produção Industrial (CEFET/RJ) - MBA em Gestão de Compras e Suprimentos (AVM) - Mestranda em Engenharia de Produção e Sistemas Produtivos pelo CEFET/RJ.*
 
-**Background in:** Supply Chain, Suprimentos, Compras e Contratações, Almoxarifado e Python.
+**Background in:** Supply Chain, Suprimentos, Compras e Contratações, Almoxarifado, Data Science e Python.
 
 **Links:**
 
