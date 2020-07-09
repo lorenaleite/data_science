@@ -20,7 +20,6 @@ Profissional de Supply Chain, atuando em empresas nacionais e multinacionais, no
 **Links:**
 
 * [LinkedIn](https://www.linkedin.com/in/lorenaleite/)
-* [Instagram] ( )
 
 
 
